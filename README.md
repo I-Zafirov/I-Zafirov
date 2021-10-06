@@ -1,6 +1,6 @@
 ### Hi 👋
 
-<img src="./https://user-images.githubusercontent.com/86560208/136267934-a52e8f78-e07e-44be-b946-a936b6a906c5.gif" alt="My Project GIF" width="500" height="600">
+<img src="https://user-images.githubusercontent.com/86560208/136267934-a52e8f78-e07e-44be-b946-a936b6a906c5.gif" alt="My Project GIF" width="500" height="600">
 <!--
 **I-Zafirov/I-Zafirov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
