@@ -1,5 +1,7 @@
 ### Hi 👋
 
+-🎓 HSARD - Plovdiv (Information Systems Management)
+-🎓 Software University - Sofia
 <!--
 **I-Zafirov/I-Zafirov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
